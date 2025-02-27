@@ -35,6 +35,6 @@ This tutorial outlines the steps to observe DHCP traffic.<br />
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/ffd68bd0-26e4-4b99-99cb-bf33d735cc3a" height="200%" width="200%" </p>
+<img src="https://github.com/user-attachments/assets/a7c26921-a08f-4da0-8589-e4252c05510a" height="200%" width="200%" </p>
 <p>Observe DHCP traffic in Wireshark</p>
 <br />
